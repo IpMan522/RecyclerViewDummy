@@ -22,7 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:text="TextView"
-        app:layout_constraintBottom_toBottomOf="@+id/id"
         app:layout_constraintStart_toEndOf="@+id/id"
         app:layout_constraintTop_toTopOf="@+id/id" />
 </androidx.constraintlayout.widget.ConstraintLayout>
