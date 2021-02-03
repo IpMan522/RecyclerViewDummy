@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RecyclerViewDummy</string>
+    <string name="information_about_element">Информация об элементе</string>
 </resources>
